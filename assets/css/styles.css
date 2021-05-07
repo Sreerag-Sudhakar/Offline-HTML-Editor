@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+}
+
+.editor-wrapper {
+    /* display: flex; */
+    margin: 20px;
+}
+
+.editor-wrapper #editor {
+    
+}
+
+.btn-wrapper {
+    text-align: center;
+    margin: 20px;
+}
